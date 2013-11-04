@@ -1,8 +1,14 @@
 ---
 layout: post
-category : lessons
-tags : [intro, beginner, jekyll, tutorial]
+category: lessons
+tags: 
+  - intro
+  - beginner
+  - jekyll
+  - tutorial
+published: true
 ---
+
 {% include JB/setup %}
 
 This Jekyll introduction will outline specifically  what Jekyll is and why you would want to use it.
@@ -19,3 +25,6 @@ dynamic components such as templates, partials, liquid code, markdown, etc. Jeky
 
 This website is created with Jekyll. [Other Jekyll websites](https://github.com/mojombo/jekyll/wiki/Sites).
 
+### Addition
+
+This is a new line.
