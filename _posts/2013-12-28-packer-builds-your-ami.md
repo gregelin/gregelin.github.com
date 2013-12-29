@@ -9,7 +9,7 @@ tags:
   - virtualmachines
   - aws
   - ami
-published: false
+published: true
 ------
 
 I have been working with vagrant for close to year. Today I tried Mitchell Hashimoto's latest project, Packer. 
@@ -20,4 +20,3 @@ Packer automates the creation of creation of virtual machines. Packer solves the
 
 To put it painly, packer will build your AMI. 
 
- 
